@@ -1,1 +1,1 @@
-Personal ML DL Projects
+Personal Machine Learning Projects
